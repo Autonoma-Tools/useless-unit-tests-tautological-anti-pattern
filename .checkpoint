@@ -1,9 +1,0 @@
-{
-  "version": 1,
-  "slug": "useless-unit-tests-tautological-anti-pattern",
-  "step": "deps_written",
-  "completed_specs": ["snippet-1", "snippet-2", "snippet-3", "snippet-4", "snippet-5"],
-  "pending_specs": [],
-  "created_at": "2026-06-03T09:39:52Z",
-  "updated_at": "2026-06-03T09:39:52Z"
-}
